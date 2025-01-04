@@ -1,1 +1,1 @@
-Voluntary the best dashboard management app for small and large volunteering or non profit organizations
+Voluntary is the best dashboard management app for small and large volunteering or non profit organizations. Using this app you can easily maintain the volunteers,  track different events, set different tasks. This app helps you manage more than one campaigns. For instance, the demo user in this app runs 7 different campaigns, tracking different users and tasks. The user is welcomed with a brief overview of different analytics of the app. Made with 
